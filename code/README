@@ -1,0 +1,5 @@
+cd zenodo_deposit
+git init && git add code README.md
+git commit -m "Analysis code and reproduction chain"
+git remote add origin https://github.com/<your-username>/als-spaceflight-concordance.git
+git push -u origin main
