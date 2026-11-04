@@ -1,5 +1,7 @@
 # Cross-Dataset Concordance and Divergence of ALS and Spaceflight Transcriptomic Signatures — Data and Code Deposit
 
+Data and results tables: Zenodo - DOI 10.5281/zenodo.23950969.
+
 This archive contains all data, code, and results needed to reproduce the
 analyses in the manuscript. Every number reported in the manuscript traces to
 `results/canonical_outputs/numbers_manifest.json` or the tables in
