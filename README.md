@@ -4,8 +4,8 @@ Data and results tables: Zenodo - DOI 10.5281/zenodo.23950969.
 
 This archive contains all data, code, and results needed to reproduce the
 analyses in the manuscript. Every number reported in the manuscript traces to
-`results/canonical_outputs/numbers_manifest.json` or the tables in
-`results/canonical_outputs/`.
+results/canonical_outputs/numbers_manifest.json or the tables in
+results/canonical_outputs/.
 
 ## Layout
 
@@ -68,7 +68,3 @@ analyses in the manuscript. Every number reported in the manuscript traces to
   random gene removal 721/1,850 significant with 0/721 direction reversals;
   targeted OXPHOS/proteasome removal 11/37 significant with 10/11 reversed.
 - Gene-level correlations: `canonical_outputs/gene_level_correlations.csv`.
-
-## License
-
-Data: CC-BY 4.0. Code: MIT.
